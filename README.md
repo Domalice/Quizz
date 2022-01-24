@@ -1,5 +1,5 @@
 # https://domalice.github.io/quizz/
-Um pequeno quizz sobre programação!
+Um quizz sobre programação!
 
 ## Linguagens utilizadas:
 * HTML
