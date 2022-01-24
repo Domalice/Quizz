@@ -1,4 +1,4 @@
-# https://domalice.github.io/quizz/
+# https://domalice.github.io/Quizz/
 Um quizz sobre programação!
 
 ## Linguagens utilizadas:
